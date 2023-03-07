@@ -1,5 +1,7 @@
 # HackTheBox Completions
 
+No, I won't be posting any write-ups.
+
 | Machine | Completion | Difficulty |
 |--------:|------------|-----------|
 Hathor		 |	System	|	Insane
